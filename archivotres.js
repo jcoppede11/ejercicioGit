@@ -3,3 +3,4 @@ function suma (a, b){
 }
 
 console.log(suma(2,5))
+console.log(suma(1,7))
